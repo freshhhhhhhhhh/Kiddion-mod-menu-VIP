@@ -7,3 +7,8 @@ HOW TO INSTALL :
 3.  Open GTAV
 4.  Run the VIP-moddest-menu.exe in a game
 5.  ENJOY !
+
+REQUIREMTS : 
+1.  GTAV
+2.  A numeric keypad
+3.  Winrar
